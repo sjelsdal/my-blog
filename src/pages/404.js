@@ -16,7 +16,7 @@ export default function Custom404() {
       </Helmet>
       <Section>
         <Container className={styles.center}>
-          <h1>Page Not Found</h1>
+          <h1>!!Page Not Found!!!</h1>
           <span>The page you were looking for could not be found.</span>
           <p>
             <Link href="/">
